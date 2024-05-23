@@ -17,7 +17,7 @@
 
 Зависимости: 
 
-Python 3.x
+Python 3.x Flask psycopg2
 
 Установка: 
 
